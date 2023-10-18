@@ -4,3 +4,4 @@ Not easy
 lol
 perfect
 life
+learn
