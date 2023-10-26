@@ -6,3 +6,4 @@ perfect
 life
 learn
 ok
+alright
